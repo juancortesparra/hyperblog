@@ -1,6 +1,6 @@
 body
 {
-    color: rgb(216, 69, 11);
+    color: rgb(117, 34, 4);
     text-align: center;
     font-family: Arial;
     font-size: 16px;
@@ -9,9 +9,9 @@ body
 }
 #cabecera
 {
-    background-color: #33a;
+    background-color: rgb(9, 9, 10);
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
-    color: white;
+    color: rgb(95, 173, 23);
     font-weight: bold;
     padding: 0.5em;
     margin: 0;
