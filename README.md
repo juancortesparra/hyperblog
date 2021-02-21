@@ -1,4 +1,4 @@
-**HYPERBLOG 2.0 **  💚
+**HYPERBLOG 2.0 ** :
 
 >Aqui encuentras todo lo aprendido en el curso profesional de Git y GitHub, donde Freddier nos da unas clases muy interactivas de todo el entorno.
 
