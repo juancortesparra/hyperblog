@@ -3,11 +3,14 @@ Esta es la historia de Juan Cortes
 Juan Cortes tiene 31 years y nacio en colombia
 viviendo en todo el mundo
 
+Actual mente vive en londres 
+
+Estudiante de www.platzi.com
 
 creo su portal wed de data
 experimento 1
 
 Hoy hablaremos de su historia.
 
-anoiwnowmxlkmsxloms
+
 Seguiremos poniendo mas datos para aclararnos sobre como funciona git.
