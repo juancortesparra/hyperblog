@@ -9,4 +9,5 @@ experimento 1
 
 Hoy hablaremos de su historia.
 
+anoiwnowmxlkmsxloms
 Seguiremos poniendo mas datos para aclararnos sobre como funciona git.
