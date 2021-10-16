@@ -1,6 +1,6 @@
 body
 {
-    color: rgb(117, 34, 4);
+    background-color:white ;
     text-align: center;
     font-family: Arial;
     font-size: 16px;
@@ -9,18 +9,18 @@ body
 }
 #cabecera
 {
-    background-color: rgb(9, 9, 10);
-    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
-    color: rgb(95, 173, 23);
+    background-color:#FF5733;
+    box-shadow: 0px 2px 20px 0px;
+    color: rgb(219, 60, 134);
     font-weight: bold;
     padding: 0.5em;
     margin: 0;
 }
 #cabecera #logo
 {
-    width: 20px;
+    width: 50px;
     vertical-align: middle;
-    background-color: chartreuse;
+    background-color: rgb(140, 0, 255);
     
 }
 #cabecera #tagline
@@ -31,5 +31,12 @@ body
 }
 #container h1
 {
+    color: #ed8975;
     font-size: 30px;
 }
+ #container p {
+     color: #304D63;
+ }
+ .lion {
+   vertical-align: left;
+ }
